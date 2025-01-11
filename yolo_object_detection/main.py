@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import cv2
 
-model = YOLO('yolo11n.pt')
+model = YOLO('yolo8n.pt')
 
 #load video
 video_path = './HEARTHSTONE.mp4'
